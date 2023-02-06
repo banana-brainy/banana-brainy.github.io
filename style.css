@@ -5,7 +5,6 @@ body {
   height: 100%;
   width: 100%;
   font-family: 'Montserrat', sans-serif;
-
 }
 
 hr {
@@ -31,7 +30,8 @@ h1 {
 
 .btn-primary {
   background-color: #F05F44;
-  border-color: #F05F44; }
+  border-color: #F05F44;
+}
 
 .btn-primary:hover {
   background-color: #ee4b08;
@@ -44,3 +44,7 @@ h1 {
   padding: 1rem 2rem; 
 }
 
+.imgOfSkywalker {
+  size: 0rem;
+  text-align: center;
+}
